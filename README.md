@@ -56,7 +56,7 @@ There are some optional parameters:
 - Show `-sh`: Show the available scrapers
 - Add `-a '{"ID":"university"}'` : manually add universities.
 
-You can check the design of the scrapers in the [Scrapers Documentation](link).
+You can check the design of the scrapers in the [Scrapers Documentation](https://github.com/israfelsr/course_summarization/blob/master/scraper/README.md).
 
 ### Summarizer
 
